@@ -8,7 +8,7 @@ const ImageCard = ({ image }) => {
   const { isOpen, toggle } = useModal();
 
   return (
-    <div className='max-w-sm rounded overflow-hidden shadow-lg'>
+    <div className='max-w-sm rounded overflow-hidden shadow-lg mx-auto'>
       <img
         src={image.webformatURL}
         alt='random pic from api'
@@ -19,7 +19,7 @@ const ImageCard = ({ image }) => {
       <Modal isOpen={isOpen} hide={toggle} image={image.largeImageURL} />
       <div className='px-6 py-4'>
         <div className='flex items-center mb-2'>
-          <div className='font-bold text-purple-500 text-xl mb-2 mr-auto'>
+          <div className='font-bold text-purple-500 text-lg mb-2 mr-auto'>
             Photo by {image.user}
           </div>
           {image.userImageURL ? (

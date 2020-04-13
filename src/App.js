@@ -34,8 +34,8 @@ const App = () => {
       {isLoading ? (
         <h1 className='text-6xl text-center mx-auto mt-32'>Loading...</h1>
       ) : (
-        <div className='w-full flex md:flex-row justify-around m-4'>
-          <div className='grid grid-cols-1 md:grid-cols-2 gap-20 '>
+        <div className='flex md:flex-row p-2 md:p-4 lg:p-6'>
+          <div className='w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
             {images &&
               images.map(image => {
                 return <ImageCard key={image.id} image={image} />;
