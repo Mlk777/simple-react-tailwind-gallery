@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-react-tailwind-gallery/static/css/main.99fd0d0c.chunk.css",
+    "main.js": "/simple-react-tailwind-gallery/static/js/main.5da54319.chunk.js",
+    "main.js.map": "/simple-react-tailwind-gallery/static/js/main.5da54319.chunk.js.map",
+    "runtime-main.js": "/simple-react-tailwind-gallery/static/js/runtime-main.c309dc64.js",
+    "runtime-main.js.map": "/simple-react-tailwind-gallery/static/js/runtime-main.c309dc64.js.map",
+    "static/js/2.d62d1ba2.chunk.js": "/simple-react-tailwind-gallery/static/js/2.d62d1ba2.chunk.js",
+    "static/js/2.d62d1ba2.chunk.js.map": "/simple-react-tailwind-gallery/static/js/2.d62d1ba2.chunk.js.map",
+    "index.html": "/simple-react-tailwind-gallery/index.html",
+    "precache-manifest.a52be0be4d170070bdf1660eb0af8f56.js": "/simple-react-tailwind-gallery/precache-manifest.a52be0be4d170070bdf1660eb0af8f56.js",
+    "service-worker.js": "/simple-react-tailwind-gallery/service-worker.js",
+    "static/css/main.99fd0d0c.chunk.css.map": "/simple-react-tailwind-gallery/static/css/main.99fd0d0c.chunk.css.map",
+    "static/js/2.d62d1ba2.chunk.js.LICENSE.txt": "/simple-react-tailwind-gallery/static/js/2.d62d1ba2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c309dc64.js",
+    "static/js/2.d62d1ba2.chunk.js",
+    "static/css/main.99fd0d0c.chunk.css",
+    "static/js/main.5da54319.chunk.js"
+  ]
+}
